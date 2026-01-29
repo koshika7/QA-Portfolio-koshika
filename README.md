@@ -9,4 +9,4 @@ de e-commerce, utilizando:
 - **TestCase**
 - **Evidência**
 
-Acesse meu projeto por aqui! [Shein](.Meus-Testes/Shein)
+Acesse meu projeto por aqui! [Shein](Meus-Testes/Shein)
