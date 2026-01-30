@@ -6,7 +6,7 @@ como **QA Junior**. Tudo (infelizmente) feito pelo celular!
 Decidi simular alguns testes exploratórios nessa famosa plataforma 
 de e-commerce, utilizando:
 - **BugReport**
-- **TestCase**
-- **Evidência**
+- **TestCases**
+- **Evidências**
 
 Acesse meu projeto por aqui! [Shein](Meus-Testes/Shein)
